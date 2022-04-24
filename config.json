@@ -1,0 +1,43 @@
+{
+    "status": "", // online, dnd, idle
+    
+    "settings": {
+      "game": {
+        "name": "",
+        "details": "",
+        "state": "",
+        "largeimage": "",
+        "largetext": "",
+        "smallimage": "",
+        "smallimagetext": "",
+        "startTime": "",
+        "appID": "APP ID"
+        
+      },
+      "twitch": {
+        "name": "",
+        "details": "style",
+        "state": "",
+        "largetext": "",
+        "smalltext": "",
+        "largeimage": "",
+        "smallimage": "",
+        "url": "https://twitch.tv/",
+        "appID": "APP ID"
+        
+      },
+      "spotify": {
+            "type": "LISTENING",
+            "name": "spotify",
+            "details": "style",
+            "state": "",
+            "largeimage": "",
+            "largetext": "",
+            "smallimage": "",
+            "startTimestamp": 929927100172,
+            "endTimestamp": 8282827288228,
+            "appID": "APP ID"
+      
+      }
+    }
+}
